@@ -1,3 +1,13 @@
 # Project-1
 
-# Johan Ehrhardt Test
+# Project Title: 
+
+# Team Members: 
+
+# Project Description/Outline:
+
+# Research Questions to Answer:
+
+# Datasets to Be Used: 
+
+# Rough Breakdown of Tasks:
