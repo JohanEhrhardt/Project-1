@@ -1,8 +1,8 @@
 # Project-1
 
-# Project Title: 
+# Project Title: Spotify and its popularity metrics
 
-# Team Members: 
+# Team Members: Denise Okur, Andrew King, Johan Ehrhardt
 
 # Project Description/Outline:
 
